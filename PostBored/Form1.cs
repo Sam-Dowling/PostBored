@@ -14,6 +14,7 @@ namespace PostBored
     {
         public Form1()
         {
+        //test
             InitializeComponent();
         }
     }
